@@ -4,7 +4,7 @@ import datetime
 import requests
 from control_BD_SQLite import Table_SQLite
 
-TOKEN = 'MTIzMTY2NDE5NjY4NTM5ODA3Nw.Gw4IGG.V9tlrvSXdpLIO-6WeQ333Dvg5AjQujfOuA0eEw'
+TOKEN = ''
 PREFIX = 'FH! '
 intents = discord.Intents().all()
 
